@@ -57,11 +57,11 @@ html {
 
 .center-axis {
     background: #6c4489;
-    height: 15px;
-    width: 15px;
+    height: 12px;
+    width: 12px;
     position: absolute;
-    top: 49%;
-    left: 48%;
+    top: 48%;
+    left: 47%;
     border-radius: 50%;
 }
 
